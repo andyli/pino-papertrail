@@ -33,7 +33,7 @@
     "test"
   ],
   "devDependencies": {
-    "pino": "^5.13.1",
+    "pino": "^5.13.2",
     "standard": "^13.1.0",
     "tap": "^14.6.1"
   },
